@@ -19,6 +19,7 @@ description: Pfft.
 author: Alex Hubers
 baseurl: '/CSC341' # the subpath of your site, e.g. /blog
 url: ahubers.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+  
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -27,6 +28,13 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+aux_links:
+  Alex Hubers:
+    - 'https://ahubers.github.io'
+  Teams:
+    - 'google.com'
+  Gradescope:
+    - 'google.com'
 footer_content:
 
 # Collections for website data
