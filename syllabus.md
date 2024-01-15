@@ -29,22 +29,22 @@ In this course, we study the theory of computation where we use mathematics to m
 
 By the end of the course, we will explore the limits of computation. Are there problems that are intractable in practice? Are there problems that can provably never have a solution?
 
-## Learning Goals
+## Learning Outcomes
 
 Broadly, and at its most abstract, I want you to see that the concrete and the abstract are symbiotic. In particular, I hope you will leave this course with the ability to _identify abstractions_ in your own work. Thatis to say, to
 - identify _problems_ that can be solved by solutions to other problems; and
 - identify _structures_ that radically simplify a task or problem.
 
-The outcome of any course is always a mix of content and behavior---I want you to leave this course with the _behaviors_ above, which you will acquire by learning the _content_ below. 
+The outcome of any course is always a mix of content and behavior---I want you to leave this course with the _behaviors_ above, which you will acquire by learning the _content_ below. In particular, each bullet below describes a particular point of mastery you should aim to acquire this semester.
 
-### Learning Outcomes \#1 (Automata and Languages)
+### Outcomes \#1 (Automata and Languages)
 - Represent a problem using a regular model of computation.
 - Prove closure and algorithmic properties of the regular languages.
 - Prove the irregularity of a problem.
 - Represent a problem using a context-free model of computation.
 - Prove closure and algorithmic properties of Turing machines.
 
-### Learning Outcomes \#2 (Complexity)
+### Outcomes \#2 (Complexity)
 - Prove that a problem is in a particular time complexity class.
 - Prove that a problem is NP-complete by way of a reduction.
 - Explain the practical ramifications of the P vs. NP problem.
@@ -52,7 +52,7 @@ The outcome of any course is always a mix of content and behavior---I want you t
 - Describe the essential characteristics of problems belonging to each of the major complexity classes.
 - Describe the practial relationships between various time and space complexity classes.
 
-### Learning Outcomes \#3 (Computability)
+### Outcomes \#3 (Computability)
 - Prove the decidability of a given machine analysis algorithm.,
 - Prove the undecidability of a given problem by way of reduction.
 - Prove the undecidability of a given problem through Rice's Theorem.

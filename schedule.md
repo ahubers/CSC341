@@ -4,7 +4,7 @@ title: Schedule
 description: Course Schedule.
 ---
 
-# Calendar
+# Course Schedule
 
 {% for module in site.modules %}
 {{ module }}
