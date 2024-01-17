@@ -6,6 +6,6 @@ description: Course Schedule.
 
 # Course Schedule
 
-{% for module in site.modules %}
-{{ module }}
+{% for week in site.weeks %}
+{{ week }}
 {% endfor %}

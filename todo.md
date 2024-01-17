@@ -8,9 +8,10 @@ description: pfft
 
 - Edit and fill in rest of syllabus.
 - Fix styling and content of schedule.
-- Markdown resources.
+- ~~Markdown resources.~~
+- Read.
 - Lesson plans for 1A, 1B, 2A, 2B.
-- Write lab 2A on GMB reservation DFA.
+  - Write lab 2A on GMB reservation DFA.
 
 
 ## Stuff I need from others
@@ -22,6 +23,7 @@ description: pfft
 ## Technology I need to set up
 - Teams.
 - Gradescope.
+- ~~Calendly.~~
 
 ## Things to do ON CAMPUS, monday.
 - ~~Print out syllabi?~~ Or just share screen...

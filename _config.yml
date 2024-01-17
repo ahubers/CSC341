@@ -40,7 +40,7 @@ footer_content:
 # Collections for website data
 collections:
   staffers:
-  modules:
+  weeks:
   schedules:
   announcements:
 # Default layouts for each collection type
@@ -55,9 +55,9 @@ defaults:
       width: 300
   - scope:
       path: ''
-      type: modules
+      type: weeks
     values:
-      layout: module
+      layout: week
   - scope:
       path: ''
       type: schedules

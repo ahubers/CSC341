@@ -1,8 +1,8 @@
 ---
-title: Week 0 Announcement
+title: Week 0
 week: 0
 date: 2019-04-01
 ---
 
-Hello world!
+Welcome to CSC341! I will use this announcement 
 {: .fs-5 }

@@ -1,0 +1,31 @@
+<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}</h2>
+<div class="module">
+{%- for unit in page.units -%}
+<dl>
+<dt><strong>#{{unit.unit}}</strong></dt>
+  <dd>{{unit.date}}</dd>
+<dd>
+  <strong>Topic</strong>. {{unit.topic}}
+</dd>
+<dd>
+  <strong>Read before class.</strong> {{unit.reading}}
+</dd>
+<dd>
+  <strong>In-Class.</strong>
+  <ul>
+  {%- for item in unit.inclass -%}
+    <li>{{ item }}</li>
+  {%- endfor -%}
+  </ul>
+</dd>
+<dd>
+  <strong>Out-Of-Class.</strong>
+  <ul>
+  {%- for item in unit.outclass -%}
+    <li>{{ item }}</li>
+  {%- endfor -%}
+  </ul>
+</dd>
+</dl>
+{%- endfor -%}
+</div>

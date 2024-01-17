@@ -6,10 +6,9 @@ description: Some technical resources that may help you in this course.
 
 # Resources
 
-## Other Texts and Readings
-...
+## LaTeX
 
-## Latex
+I am sorry to say that LaTeX is the standard for mathematical type setting and document creation---it is, it has been, and it will continue to be. I advise all students to learn LaTeX now before later. There is often no avoiding it.
 
 ### LaTeX Distributions
 - [Overleaf (Online LaTeX IDE)](https://www.overleaf.com/)
@@ -33,7 +32,25 @@ description: Some technical resources that may help you in this course.
   - [Pandoc (conversion between many document formats)](https://pandoc.org/)
 
 ## Markdown
-...
+I like markdown, and so do most people. If I am in need of a markup language, I will almost always find a way to use markdown. (This site is written in markdown using [Jekyll](https://jekyllrb.com/).)
+
+Some useful links.
+- See [markdownguide.org](https://www.markdownguide.org) for a straightforward introduction to markdown.
+- Github, which you will use in your career (but not this class), has its own flavor of markdown. See its [formal specification](https://github.github.com/gfm/) and (a more friendly) guide [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github). 
+- I sometimes use [Pandoc](pandoc.org) (also linked above) to render markdown to html, LaTeX, and pdf. Also, Pandoc is written in Haskell!
+
+## Other Texts and Readings
+
+### On Theory of Computation
+- I first learned about _complexity_ and _computability_ from [Arora and Barak](https://theory.cs.princeton.edu/complexity/). It's a good reference. _Available free online at link provided._
+
+### On Programming Languages (Very, very optional)
+- I am bound to talk about programming language theory during this semester. For those of you whom I manage to convince how great it is, I recommend:
+  - [Learn you a Haskell for Great Good!](https://www.learnyouahaskell.com/) for a fun introduction to (pure) functional programming in Haskell. This is the entry point for many people (myself included) interested in functional programming languages. _Available free online at link provided._
+  - [Programming Language Foundations in Agda](https://plfa.github.io/) for an excellent introduction to dependent type theory, language metatheory, and language mechanization. _Available free online at link provided._
+  - I also recommend [Verified Functional Programming in Agda](https://dl.acm.org/doi/book/10.1145/2841316), written by my advisor Aaron Stump. Not available online, but speak to me if you are interested and price is an issue.
+  - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) is the de facto standard for all things PL. Every researcher I know has a copy. That being said, Pierce largely ignores _denotational semantics_ in favor of _operational semantics_, which I find boring. For denotational semantics, I recommend [Programming Language Foundations](https://www.amazon.com/Programming-Language-Foundations-Aaron-Stump/dp/1118007476), which is also written by my advisor Aaron Stump. (So, feel free to email me if you are interested and price is an issue.)
+
 
 ## On Technical Writing
 Technical writing is hard. While you won't have to do a ton of it in this course, it is something I encourage those of you with an interest in graduate school to take seriously. Here are some resources that have helped me a lot.
