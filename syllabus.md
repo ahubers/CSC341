@@ -163,7 +163,7 @@ I am generally willing to be flexible with deadlines within reason if something 
 
 ## Instructor Absence
 
-I live in Cedar Rapids, Iowa, and so I must drive a car. Unfortunately, Iowa has snow, cars break down, and instructors get runny noses. If any of these cases is to occur and I am not able to be on campus, we will hold our class period virtually. Please see the course site for where and how.
+I live in Cedar Rapids, Iowa, and so I must drive a car. Unfortunately, Iowa has snow, cars break down, and instructors get runny noses. If any of these cases is to occur and I am not able to be on campus, we will hold our class period virtually on Teams. _In such an event, I will message you as soon as I can with clear instructions on how to attend class.
 
 ## Student Absence
 
@@ -177,9 +177,9 @@ When asking questions about the course or course material, please use the Micros
 
 I will try to make sure it is clear to which channel you should post a question. I highly encourage active discussion among classmates for (most of) your assigned work. Learning to communicate technical material effectively and clearly with your peers will some day be your job! That being said, please reach out to me or the course mentor directly for questions that might reveal too much about a given assigned problem. Also, feel free to reach out to me on Teams (or email) if you have questions about computer science, research, academia, life, et cetera that exceed the scope of this course.
 
-### On the nature of online forums
+### On timely replies
 
-I and the class mentor will try to get back to all questions in a timely fashion. That being said, we are also humans who must eat, run errands, sleep, and play video games. Further, if we answer your question in depth, we expect you to expend as much intellectual depth in exploring the answer. So, this is to say: we will do everything we can to help you succeed, _but we are not a paid support channel_, and we reserve the right to accidentally miss a question. In short, we are humans and we might err.
+I and the class mentor will try to get back to all questions in a timely fashion. That being said, we are also humans who must eat, run errands, sleep, and play video games. Further, if we answer your question in depth, we expect you to expend as much intellectual depth in exploring the answer. So, this is to say: we will do everything we can to help you succeed, _but we are not a paid support channel_, and we reserve the right to miss a question or turn off Teams for a(n) hour/day/weekend with less chatter. This is to preserve my mental health and the mental health of my class mentors.
 
 ## Peer Collaboration
 
