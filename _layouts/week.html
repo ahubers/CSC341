@@ -1,31 +1,34 @@
 <h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}</h2>
 <div class="module">
+<table>
+  <tr>
+    <th></th>
+    <th>Topic</th>
+    <th>Read before class</th>
+    <th>Assigned</th>
+    <th>Due</th>
+  </tr>
 {%- for unit in page.units -%}
-<dl>
-<dt><strong>#{{unit.unit}}</strong></dt>
-  <dd>{{unit.date}}</dd>
-<dd>
-  <strong>Topic</strong>. {{unit.topic}}
-</dd>
-<dd>
-  <strong>Read before class.</strong> {{unit.reading}}
-</dd>
-<dd>
-  <strong>In-Class.</strong>
-  <ul>
-  {%- for item in unit.inclass -%}
-    <li>{{ item }}</li>
-  {%- endfor -%}
-  </ul>
-</dd>
-<dd>
-  <strong>Out-Of-Class.</strong>
-  <ul>
-  {%- for item in unit.outclass -%}
-    <li>{{ item }}</li>
-  {%- endfor -%}
-  </ul>
-</dd>
-</dl>
+  <tr>
+    <td><strong>
+        {%- if unit.unit -%}
+          #{{unit.unit}}:   
+        {%- endif -%} {{" "}}{{unit.date}}
+    </strong></td>
+    <td>{{unit.topic}}</td>
+    <td>{{unit.reading}}</td>
+    <td><ul>
+      {%- for item in unit.assigned -%}
+        <li>{{ item }}</li>
+      {%- endfor -%}
+    </ul></td>
+    <td><ul>
+      {%- for item in unit.due -%}
+        <li>{{ item }}</li>
+      {%- endfor -%}
+    </ul></td> 
+  </tr>
 {%- endfor -%}
+</table>
+{{ content }}
 </div>

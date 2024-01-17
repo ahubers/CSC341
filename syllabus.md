@@ -31,7 +31,7 @@ By the end of the course, we will explore the limits of computation. Are there p
 
 ## Learning Outcomes
 
-Broadly, and at its most abstract, I want you to see that the concrete and the abstract are symbiotic. In particular, I hope you will leave this course with the ability to _identify abstractions_ in your own work. Thatis to say, to
+I want you to see that the concrete and the abstract are symbiotic. In particular, I hope you will leave this course with the ability to _identify abstractions_ in your own work. This is to say, to
 - identify _problems_ that can be solved by solutions to other problems; and
 - identify _structures_ that radically simplify a task or problem.
 
@@ -68,7 +68,9 @@ We will use Micahel Sipser's _Introduction to the Theory of Computation_ (3rd Ed
 
 In this course, we will use both Microsoft Teams and email to facilitate communication. The former is the preferred means of communication.
 
-**LaTeX blurb.**
+Online submitted documents are preferably typeset in LaTeX. I will also accept suitably legible handwritten work and Microsoft Word. For the former, please make sure to get the work in to me at the lecture date closest to (and before) the assignment's due date. For the latter, I expect you to format all mathematical typing professionally and legibly using either (i) the Microsoft Word equation editor or (ii) pasting LaTeX images in. 
+
+See the course website for resources on how to learn and use LaTeX.
 
 
 # Diversity and Inclusion
@@ -91,14 +93,14 @@ There are a limitless number of dimensions to diversity and inclusion, the total
 
 # Evaluation
 
-
 ## Deliverables
 
 There are several kinds of common deliverables (described below) I use to assess your mastery of the material that are described below in detail. The details of each are provided on the assignments page once appropriate.
 
 ### Quizzes
 
-...
+
+We will have somewhere in the range of 12 to 15 small, in-class quizzes. Quizzes are designed to help you identify content that you might have missed or not mastered as well as you think you had. I intend for these to be as low-stakes as possible---I am not trying to examine you; these are just one other form of rapid feedback I can give. To prove to you these are low stakes, your final quiz average (see _Final Letter Grades_ below) will be composed only of your top `n` quiz scores for some `n` fairly less than the total quiz count. (I will determine `n` later in the semester.)
 
 ### Labs
 
@@ -110,19 +112,13 @@ Labs are to be turned in (legibly handwritten or typed) on gradescope. We reserv
 
 ### Homeworks
 
-Homeworks are longer assignments consisting of five questions each in a similar vein to labs that are opportunities for you to demonstrate mastery of the course material. While you are free to discuss them with your peers, they should be completed on your own in your own words.
-
-**Edit me**
-Homework problems are graded on a satisfactory (S)/non-satisfactory (NS) basis. Clearly correct answers can expect to receive a satisfactory grade. Mostly correct answers may but will not necessarily receive a satisfactory grade. Note that readability is part of writing a correct solution to a problem. Solutions should be clear and concise.
+Homeworks are longer assignments that will challenge you to interact, question, and analyze the course material more rigorously. Homeworks will be graded on a point-based scale. While you are free to discuss them with your peers, they should be completed on your own in your own words.
 
 Homeworks are to be turned in (legibly handwritten or typed) on gradescope. We reserve the right to not grade illegible solutions.
 
 ### Exams
 
-To directly access your mastery of this course’s learning outcomes, we will conduct a series of three exams over the semester covering the three major categories of the theory of computation: formal automata and languages, computability theory, and computational complexity. Each exam will be of the take home variety consisting of ten problems to be completed entirely on your own without discussion amongst peers, professors, Internet access, or any other source. Use of your notes and your textbook, however, is permitted.
-
-**edit me**
-Each exam problem is graded on a satisfactory (S)/non-satisfactory (NS) basis. Clearly correct answers can expect to receive a satisfactory grade. Mostly correct answers may but will not necessarily receive a satisfactory grade. Note that readability is part of writing a correct solution to a problem. Solutions should be clear and concise and, as always, legible if handwritten.
+To directly access your mastery of this course’s learning outcomes, we will conduct a series of three exams over the semester covering the three major categories of the theory of computation: formal automata and languages, computability theory, and computational complexity. Each exam will be take-home and is to be completed entirely on your own without discussion amongst peers, professors, Internet access, or any other source. Use of your notes and your textbook, however, is permitted.
 
 Exams are to be turned in (legibly handwritten or typed) on gradescope. We reserve the right to not grade illegible solutions.
 
@@ -133,15 +129,16 @@ This course will follow the standard weighted-average grading scale model. The w
 
 | **Deliverable** | **Weight** | **Note**            |
 |-----------------|------------|---------------------|
-| Quizzes         | 5%         | S/Ns.               |
-| Labs            | 5%         | S/Ns.               |
-| Homeworks       | 30%        |                     |
+| Quizzes         | 5%         |                     |
+| Labs            | 10%        | S/Ns.               |
+| Homeworks       | 25%        |                     |
 | Exams           | 60%        | 3 exams @ 20% each. |
 
 ## Final Letter Grades
 
+Let `n` be your final weighted average as determined by the table above. Your final letter grade is determined by the row below with the highest `p` such that `n ≥ p`, rounding up.
 
-| Letter Grade |     |
+| Letter Grade |  `p`  |
 |--------------|-----|
 | A            | 93% |
 | A-           | 90% |
@@ -166,9 +163,11 @@ I am generally willing to be flexible with deadlines within reason if something 
 
 ## Instructor Absence
 
-I live in Cedar Rapids, Iowa. Iowa has snow. Sometimes we will need to meet online. Please see course site for more details on virtual meeting.
+I live in Cedar Rapids, Iowa, and so I must drive a car. Unfortunately, Iowa has snow, cars break down, and instructors get runny noses. If any of these cases is to occur and I am not able to be on campus, we will hold our class period virtually. Please see the course site for where and how.
 
 ## Student Absence
+
+Quizzes will be given and handed-in during class; labs will be posted online. That being said, _I cannot stress enough the value of attending class_. Class gives you an opportunity to learn with your peers. This is perhaps the most valuable way you will learn! In the case that you must miss a class in which a quiz is given, please let me know ahead of time and I will try to accomodate a time for you to take it.
 
 # Help, Collaboration, and Academic Honesty
 
@@ -176,9 +175,11 @@ I live in Cedar Rapids, Iowa. Iowa has snow. Sometimes we will need to meet onli
 
 When asking questions about the course or course material, please use the Microsoft Teams site (a work in progress) or a direct message (DM) as a first stop. We will respond to emails as well; however, Teams is the preferred method of contact.
 
-Please use direct messages (DM) on Microsoft Teams or email (not public Teams posts) to contact the course staff directly about individual issues concerning logistics, grades, etc. Note that even though may be marked online we will generally not respond immediately.
+I will try to make sure it is clear to which channel you should post a question. I highly encourage active discussion among classmates for (most of) your assigned work. Learning to communicate technical material effectively and clearly with your peers will some day be your job! That being said, please reach out to me or the course mentor directly for questions that might reveal too much about a given assigned problem. Also, feel free to reach out to me on Teams (or email) if you have questions about computer science, research, academia, life, et cetera that exceed the scope of this course.
 
-If you would like to discuss anything in more detail (whether course content or more general questions about computer science, research, etc), feel free to email me, send me a message on teams, or stop by my office during my office hours or whenever my door happens to be open.
+### On the nature of online forums
+
+I and the class mentor will try to get back to all questions in a timely fashion. That being said, we are also humans who must eat, run errands, sleep, and play video games. Further, if we answer your question in depth, we expect you to expend as much intellectual depth in exploring the answer. So, this is to say: we will do everything we can to help you succeed, _but we are not a paid support channel_, and we reserve the right to accidentally miss a question. In short, we are humans and we might err.
 
 ## Peer Collaboration
 

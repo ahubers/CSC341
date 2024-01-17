@@ -35,9 +35,10 @@ I am sorry to say that LaTeX is the standard for mathematical type setting and d
 I like markdown, and so do most people. If I am in need of a markup language, I will almost always find a way to use markdown. (This site is written in markdown using [Jekyll](https://jekyllrb.com/).)
 
 Some useful links.
-- See [markdownguide.org](https://www.markdownguide.org) for a straightforward introduction to markdown.
+- Professor Osera has a great write-up [here](https://osera.cs.grinnell.edu/csc341/readings/markdown.html) on how to use markdown.
+- See [markdownguide.org](https://www.markdownguide.org) for another straightforward introduction.
 - Github, which you will use in your career (but not this class), has its own flavor of markdown. See its [formal specification](https://github.github.com/gfm/) and (a more friendly) guide [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github). 
-- I sometimes use [Pandoc](pandoc.org) (also linked above) to render markdown to html, LaTeX, and pdf. Also, Pandoc is written in Haskell!
+- I sometimes use [Pandoc](pandoc.org) (also linked above & described by [Osera](https://osera.cs.grinnell.edu/csc341/readings/markdown.html)) to render markdown to html, LaTeX, and pdf. Also, Pandoc is written in Haskell!
 
 ## Other Texts and Readings
 
