@@ -70,7 +70,7 @@ In this course, we will use both Microsoft Teams and email to facilitate communi
 
 Online submitted documents are preferably typeset in LaTeX. I will also accept suitably legible handwritten work and Microsoft Word. For the former, please make sure to get the work in to me at the lecture date closest to (and before) the assignment's due date. For the latter, I expect you to format all mathematical typing professionally and legibly using either (i) the Microsoft Word equation editor or (ii) pasting LaTeX images in. 
 
-See the course website for resources on how to learn and use LaTeX.
+See the [Resources](/CSC341/resources) page for how to learn and use LaTeX.
 
 
 # Diversity and Inclusion
@@ -100,13 +100,13 @@ There are several kinds of common deliverables (described below) I use to assess
 ### Quizzes
 
 
-We will have somewhere in the range of 12 to 15 small, in-class quizzes. Quizzes are designed to help you identify content that you might have missed or not mastered as well as you think you had. I intend for these to be as low-stakes as possible---I am not trying to examine you; these are just one other form of rapid feedback I can give. To prove to you these are low stakes, your final quiz average (see _Final Letter Grades_ below) will be composed only of your top `n` quiz scores for some `n` fairly less than the total quiz count. (I will determine `n` later in the semester.)
+We will have somewhere in the range of 12 to 15 small, in-class quizzes. Quizzes are designed to help you identify content that you might have missed or not mastered as well as you think you had. I intend for these to be as low-stakes as possible---I am not trying to examine you; these are just one other form of rapid feedback I can give. To prove to you these are low stakes, your final quiz average (see [Final Letter Grades](#final-letter-grades) below) will be composed only of your top `n` quiz scores for some `n` fairly less than the total quiz count; call this number `m` such that `total quiz count = n + m`. We will start with `m = 3`. I reserve the right to increase (but not decrease) `m` so that more low quiz scores may be dropped as necessary.
 
 ### Labs
 
 Labs are in-class activities or discussions (small group or whole class) that are designed to allow you to gain familiarity and fluency with the course concepts through grappling with the material directly with oversight. Labs will be completed in small groups so that you can take advantage of the benefits of collaborative learning.
 
-Labs are graded on a satisfactory (S)/non-satisfactory (NS) basis. If you have clearly put effort into your lab by considering the question at hand or completing the problems given to you (whether they are correct or not quite so), you can expect to receive a satisfactory grade.
+Labs are graded on a _satisfactory (S)_ / _non-satisfactory (NS)_ basis. If you have clearly put effort into your lab by considering the question at hand or completing the problems given to you (whether they are correct or not quite so), you can expect to receive a satisfactory grade.
 
 Labs are to be turned in (legibly handwritten or typed) on gradescope. We reserve the right to not grade illegible solutions.
 
@@ -136,7 +136,7 @@ This course will follow the standard weighted-average grading scale model. The w
 
 ## Final Letter Grades
 
-Let `n` be your final weighted average as determined by the table above. Your final letter grade is determined by the row below with the highest `p` such that `n ≥ p`, rounding up.
+Let `n` be your final weighted average as determined by the table above. Your final letter grade is determined by the row below with the greatest `p` such that `n ≥ p`, rounding up. (Exercise for the class: what is the term for such a `p`?)
 
 | Letter Grade |  `p`  |
 |--------------|-----|
@@ -149,25 +149,45 @@ Let `n` be your final weighted average as determined by the table above. Your fi
 | C            | 73% |
 | C-           | 70% |
 | D+           | 60% |
-| F            | 59% |
+| F            | 0%  |
 
 ### ...But will there be a curve?
 
 I reserve the right to curve final letter grades, but I do not plan on it. In the case that I do, **I will only curve in a manner that benefits all students.** 
 
-## Late Policy & Extensions
 
-I am generally willing to be flexible with deadlines within reason if something comes up. For example, if you have two exams right before a due date, I don’t mind giving you an extension until the next class period. On the other hand, if you ‘just didn’t feel like it’, no extension will be offered. This is a flexible policy, so these late submissions will be handled on a case by case basis. That said, late submissions will sometimes delay (and on occasion severely delay) when your assignment will be graded. Please do not abuse this policy, or I will have to require more rigid deadlines.
+# Mental Health, _or:_ Why We Often Fall Behind
 
-# Absences
+I encourage you to watch this
+[talk](https://www.youtube.com/watch?v=T7TgSXcjNTY) given by [Talia
+Ringer](https://dependenttyp.es/) describing how her struggles with depression interfered with her academic life. For some reason, it
+moved me to hear a (very accomplished!) professor finally state the obvious:
+mental health is an _everyone_ problem.
 
-## Instructor Absence
+If you struggle with your mental health, too, you are not alone! I myself get to enjoy frequent depressive episodes and fairly constant generalized anxiety. I procrastinate, I sometimes hate my work, I sometimes feel like I don't get any of this stuff. It's okay. 
 
-I live in Cedar Rapids, Iowa, and so I must drive a car. Unfortunately, Iowa has snow, cars break down, and instructors get runny noses. If any of these cases is to occur and I am not able to be on campus, we will hold our class period virtually on Teams. _In such an event, I will message you as soon as I can with clear instructions on how to attend class.
+I refuse to believe that students become disengaged or disinterested for lack of character or grit. More often than not, students develop emotional blocks to course content because _it is designed to be difficult and uncomfortable._ I understand that these blocks can keep students capable of excelling from doing so. For this reason, I have tried to design late-work, extension, and student absence policies with this empathy in mind.
 
-## Student Absence
+### Late Policy & Extensions
 
-Quizzes will be given and handed-in during class; labs will be posted online. That being said, _I cannot stress enough the value of attending class_. Class gives you an opportunity to learn with your peers. This is perhaps the most valuable way you will learn! In the case that you must miss a class in which a quiz is given, please let me know ahead of time and I will try to accomodate a time for you to take it.
+If for some reason you cannot meet a deadline for a lab, homework, or exam, please let me know as soon as you can. I hold a _don't dissappear_ policy, meaning: as long as we are in communication, we can figure something out. That said, be mindful that late submissions can sometimes (possibly severely) delay when your assignment is graded. Further, access to solutions (if they are posted) will be denied until submission; this can put you in a situation that gets you further behind.
+
+A necessary disclaimer: Please do not abuse this policy, or I will have to require more rigid deadlines. As a gentle precaution, I will institute an **Extension Point Penalty** past your first extension, resulting in lost points per each additional extension. I reserve the right to choose, at the point of extension, the quantity of points penalized on a case-by-case basis. This penalty is in effect not only to discourage abuse of the extension policy but, more importantly, to encourage you to hand your work in as soon as you can. In most cases, the penalty will be very minimal.
+
+Finally, no homework may be submitted later than the last day of class.
+
+
+
+### Student Absence
+
+I would really like to have you in class. Labs give you an opportunity to learn with your peers. Further, quizzes are taken (and handed-in) in person. In general, all I ask is that you do your best to make it and, if you cannot, you let me know. In particular, if you miss a quiz, we will need to schedule a time for you to take it. 
+
+A necessary disclaimer: Please do not abuse this policy. In particular, I and the course staff, by nature of our frail human mortality, are limited and fragile beings. We can only help you catch up so much. As a gentle precaution, I will institute a **Missed Quiz Restriction**: you may only make-up so many quizzes as are dropped from your final grade (see [Quizzes](#quizzes) above). This is to say, if I drop your worst `m` quizzes, you are permitted to miss (and take later) this many. This policy is not extremely rigid; again, I am simply trying to give you an extra nudge to attend class.
+
+### Instructor Absence
+
+I live in Cedar Rapids, Iowa, and so I must drive a car to campus. Unfortunately, Iowa has snow, cars break down, and instructors get runny noses. If any of these cases is to occur and I am not able to be on campus, we will hold our class period virtually on Teams. In such an event, I will message you as soon as I can with clear instructions on how to attend class virtually.
+
 
 # Help, Collaboration, and Academic Honesty
 
@@ -179,7 +199,7 @@ I will try to make sure it is clear to which channel you should post a question.
 
 ### On timely replies
 
-I and the class mentor will try to get back to all questions in a timely fashion. That being said, we are also humans who must eat, run errands, sleep, and play video games. Further, if we answer your question in depth, we expect you to expend as much intellectual depth in exploring the answer. So, this is to say: we will do everything we can to help you succeed, _but we are not a paid support channel_, and we reserve the right to miss a question or turn off Teams for a(n) hour/day/weekend with less chatter. This is to preserve my mental health and the mental health of my class mentors.
+I and the class mentor will try to get back to all questions in a timely fashion. That being said, we are also humans who must eat, run errands, sleep, and play video games. Further, if we answer your question in depth, we expect you to expend as much intellectual depth in exploring the answer. So, this is to say: we will do everything we can to help you succeed, _but we are not a paid support channel_, and we reserve the right to miss a question or turn off Teams for a(n) hour/day/weekend with less chatter. This is to preserve my mental health and the mental health of the class mentor.
 
 ## Peer Collaboration
 
