@@ -4,7 +4,7 @@ units:
 - unit: 4A
   topic: Irregularity
   date: Tues 2/13
-  reading: Sipser 1.4
+  reading: Sipser §1.4
   assigned: 
     - Lab 4A
     - Homework 4
@@ -13,7 +13,7 @@ units:
 - unit: 4B
   topic: Context-Free Grammars
   date: Thurs 2/15
-  reading: Sipser 2.1
+  reading: Sipser §2.1
   assigned: 
     - Lab 4B
   due: 

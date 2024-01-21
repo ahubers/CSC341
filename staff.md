@@ -24,3 +24,4 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+

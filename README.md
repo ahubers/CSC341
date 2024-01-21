@@ -28,13 +28,11 @@ Spring (see below).
     and help to students interested in pursuing careers in both academia and
     industry after graduation.
   - _Schedule_. I am only guaranteed to be on campus, in person, on Tuesdays and
-    Thursdays. With some exceptions, I will be home on Monday, Wednesday, and Friday. I will let students know if I am on campus and holding additional office hours on M/W/F.
+    Thursdays. With some exceptions, I will be home on Monday, Wednesday, and Friday. I will let students know if I am on campus and holding additional in-person office hours on M/W/F.
   - _Office hours_. 
 	- In-person, T/Th. TBD.
 	- I am available virtually, by appointment, M/W/F. Make an appointment on my [Calendly](https://calendly.com/ahubers2/30min).
-- **Mentor(s)**: TBD.
-  - The mentors for both Sections 1 and 2 are still TBD. I will update here as
-    soon as I know more.
+- **Mentor**: Pom Dao.
 - **Times and Location**: 
   - _Section 1._ T/Th 8:30 AM - 9:50 AM. Noyce 3819.
   - _Section 2._ T/Th 2:30 PM - 3:50 PM. Noyce 3819.

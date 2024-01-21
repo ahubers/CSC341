@@ -9,4 +9,4 @@ meta:
   Office Hours: TBD
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](https://calendly.com/ahubers2/30min){: .btn .btn-outline }
