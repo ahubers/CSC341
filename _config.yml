@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CSC341
 tagline: Course Site for CSC341, Spring 2024, at Grinnell College, Grinnell, Iowa.
-description: Pfft.
+description: Course Site for CSC341, Spring 2024, at Grinnell College, Grinnell, Iowa.
 author: Alex Hubers
 baseurl: '/CSC341' # the subpath of your site, e.g. /blog
 url: ahubers.github.io' # the base hostname & protocol for your site, e.g. http://example.com
