@@ -30,7 +30,9 @@ Spring (see below).
   - _Schedule_. I am only guaranteed to be on campus, in person, on Tuesdays and
     Thursdays. With some exceptions, I will be home on Monday, Wednesday, and Friday. I will let students know if I am on campus and holding additional in-person office hours on M/W/F.
   - _Office hours_. 
-	- In-person, T/Th. TBD.
+	- In Person, Noyce 1038. _(These hours subject to change as I learn more about your student schedules)_.
+        - 10:00--11:15 AM, Tuesdays.
+        - 1:00--2:15 PM, Thursdays.
 	- I am available virtually, by appointment, M/W/F. Make an appointment on my [Calendly](https://calendly.com/ahubers2/30min).
 - **Mentor**: Pom Dao.
 - **Times and Location**: 
