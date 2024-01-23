@@ -35,6 +35,8 @@ I want you to see that the concrete and the abstract are symbiotic. In particula
 - identify _problems_ that can be solved by solutions to other problems; and
 - identify _structures_ that radically simplify a task or problem.
 
+Further, I would like you to see that _computation is a concept_ manifested in _one of many forms_ on physical machines. In the past, you have likely learned to believe the opposite: that computation is a phenomena manifested on physical machines that has _a singular_ model (namely, the Von Neumann architecture). In this course, we will study the former.
+
 The outcome of any course is always a mix of content and behavior---I want you to leave this course with the _behaviors_ above, which you will acquire by learning the _content_ below. In particular, each bullet below describes a particular point of mastery you should aim to acquire this semester.
 
 ### Outcomes \#1 (Automata and Languages)
@@ -62,7 +64,7 @@ The outcome of any course is always a mix of content and behavior---I want you t
 
 ## Textbook
 
-We will use Micahel Sipser's _Introduction to the Theory of Computation_ (3rd Edition). Alternatively, the second edition of the text will likely suffice for the purposes of this course. Additional reading may possibly be assigned (and distributed) on the course schedule.
+We will use Michael Sipser's _Introduction to the Theory of Computation_ (3rd Edition). Alternatively, the second edition of the text will likely suffice for the purposes of this course. Additional reading may possibly be assigned (and distributed) on the course schedule.
 
 ## Communication & Software
 
@@ -100,7 +102,7 @@ There are several kinds of common deliverables (described below) I use to assess
 ### Quizzes
 
 
-We will have somewhere in the range of 12 to 15 small, in-class quizzes. Quizzes are designed to help you identify content that you might have missed or not mastered as well as you think you had. I intend for these to be as low-stakes as possible---I am not trying to examine you; these are just one other form of rapid feedback I can give. To prove to you these are low stakes, your final quiz average (see [Final Letter Grades](#final-letter-grades) below) will be composed only of your top `n` quiz scores for some `n` fairly less than the total quiz count; call this number `m` such that `total quiz count = n + m`. We will start with `m = 3`. I reserve the right to increase (but not decrease) `m` so that more low quiz scores may be dropped as necessary.
+We will have somewhere in the range of 10 to 15 small, in-class quizzes. Quizzes are designed to help you identify content that you might have missed or not mastered as well as you think you had. I intend for these to be as low-stakes as possible---I am not trying to examine you; these are just one other form of rapid feedback I can give. To prove to you these are low stakes, your final quiz average (see [Final Letter Grades](#final-letter-grades) below) will be composed only of your top `n` quiz scores for some `n` fairly less than the total quiz count. In other words, we have `total quiz count = n + m`, with `m` the number of dropped lowest quiz scores. We will start with `m = 3`. I reserve the right to increase (but not decrease) `m` so that more low quiz scores may be dropped as necessary.
 
 ### Labs
 
@@ -134,9 +136,10 @@ This course will follow the standard weighted-average grading scale model. The w
 | Homeworks       | 25%        |                     |
 | Exams           | 60%        | 3 exams @ 20% each. |
 
+
 ## Final Letter Grades
 
-Let `n` be your final weighted average as determined by the table above. Your final letter grade is determined by the row below with the greatest `p` such that `n ≥ p`, rounding up. (Exercise for the class: what is the term for such a `p`?)
+Let `n` be your final weighted average as determined by the table above. Your final letter grade is determined by the row below with the greatest `p` such that `p ≤ n`, rounding decimals in your favor. (Exercise for the class: what is the term for such a `p`?)
 
 | Letter Grade |  `p`  |
 |--------------|-----|
