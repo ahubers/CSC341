@@ -25,6 +25,7 @@ I am sorry to say that LaTeX is the standard for mathematical type setting and d
   - [Mathpartir (Inference Rules)](http://cristal.inria.fr/~remy/latex/); also ask me about Mark Jones' infer.sty package if interested.
   
 ### Additional LaTeX Tools
+  - [HackMD (Online Markdown + LaTeX collaborative editor)](https://hackmd.io/)
   - [Latexmk (LaTeX “Make” script)](https://mg.readthedocs.io/latexmk.html)
   - [Latexrun (command-line wrapper)](https://github.com/aclements/latexrun)
   - [Detexify (symbol reverse-lookup)](http://detexify.kirelabs.org/classify.html)
@@ -39,6 +40,7 @@ Some useful links.
 - See [markdownguide.org](https://www.markdownguide.org) for another straightforward introduction.
 - Github, which you will use in your career (but not this class), has its own flavor of markdown. See its [formal specification](https://github.github.com/gfm/) and (a more friendly) guide [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github). 
 - I sometimes use [Pandoc](pandoc.org) (also linked above & described by [Osera](https://osera.cs.grinnell.edu/csc341/readings/markdown.html)) to render markdown to html, LaTeX, and pdf. Also, Pandoc is written in Haskell!
+- I have heard good things about [HackMD](https://hackmd.io/), which I believe lets you format documents in markdown with native support for LaTeX. I've yet to use it, but I have had students recommend it.
 
 ## Other Texts and Readings
 

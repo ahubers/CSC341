@@ -20,6 +20,9 @@ units:
   due: 
     - Labs 1A and 1B  
 ---
+### Gradescope
+- Lab 1A [Section 1 (8:30 AM)](https://www.gradescope.com/courses/716434/assignments/3982109/) and [Section 2 (2:30 PM)](https://www.gradescope.com/courses/717494/assignments/3988254/).
+
 
 <!-- 
 #1A:
