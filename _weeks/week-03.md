@@ -2,7 +2,7 @@
 title: Week 3—Regular Languages
 units:
 - unit: 3A
-  topic: Regular Expressions
+  topic: Closure properties; Regular Expressions
   date: Tues 2/6
   reading: Sipser §1.3
   assigned: 

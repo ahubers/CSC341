@@ -10,7 +10,7 @@ units:
     - Lab 2A
   due: 
 - unit: 1B
-  topic: Math lit (cont.)
+  topic: Nondeterminism; equivalence.
   date: Thurs 2/1
   reading: Sipser §1.2
   assigned: 
