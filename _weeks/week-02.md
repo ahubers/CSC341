@@ -6,7 +6,6 @@ units:
   date: Tues 1/30
   reading: Sipser §1.1
   assigned: 
-    - Homework 2
     - Lab 2A
   due: 
 - unit: 1B

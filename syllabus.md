@@ -44,7 +44,6 @@ The outcome of any course is always a mix of content and behavior---I want you t
 - Prove closure and algorithmic properties of the regular languages.
 - Prove the irregularity of a problem.
 - Represent a problem using a context-free model of computation.
-- Prove closure and algorithmic properties of Turing machines.
 
 ### Outcomes \#2 (Complexity)
 - Prove that a problem is in a particular time complexity class.
@@ -55,12 +54,13 @@ The outcome of any course is always a mix of content and behavior---I want you t
 - Describe the practial relationships between various time and space complexity classes.
 
 ### Outcomes \#3 (Computability)
-- Prove the decidability of a given machine analysis algorithm.,
+- Prove closure and algorithmic properties of Turing machines.
+- Prove the decidability of a given machine analysis algorithm.
 - Prove the undecidability of a given problem by way of reduction.
 - Prove the undecidability of a given problem through Rice's Theorem.
 - Describe the practical ramifications of computational undecidability.
 - Describe practical problem solving strategies for dealing with intractable problems.
-- Design and reason about an approximation algorithm to an optimization problem.
+- ~~Design and reason about an approximation algorithm to an optimization problem.~~
 
 ## Textbook
 
