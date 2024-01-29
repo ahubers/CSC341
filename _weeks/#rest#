@@ -7,20 +7,20 @@
   - Decidability §4.1
   - Undecidability §4.2
 - Week 8 
-  - 7A. Reducibility §5.1 and §5.3
+  -Reducibility §5.1 and §5.3
   - 7B. A simple, undecidable problem §5.2
 - Week 10 (Decidability Exam Week)
-  - 8A. Rice's Theorem
-  - 8B. The Recursion Theorem §6.1
+  - Rice's Theorem
+  - The Recursion Theorem §6.1
 - Week 11 
   - Time Complexity. §7.1-7.2
   - NP Completeness. §7.3 through pg 304
 - Week 12
-  -  The Cook Levine-Theorem.
-  -  More NP Completeness.
+  -  The Cook Levine-Theorem. Sipser 304-311
+  -  More NP Completeness. Sipser §7.5
 - Week 13
-  - L and NL §8.4-8.6
-  - Intractibility §9.1/
-- Week 14
   - Savitch's Theorem §8.1-8.2
   - PSPACE-Completeness §8.3
+- Week 14
+  - L and NL §8.4-8.6
+  - Intractibility §9.1/

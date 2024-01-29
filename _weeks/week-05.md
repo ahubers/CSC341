@@ -1,27 +1,22 @@
 ---
-title: Week 5—Decidability
+title: Week 5—Automata Exam
 units:
-- unit: 4A
-  topic: Turing Machines
-  date: Tues 2/13
-  reading: Sipser §3 and §3.1
+- unit: 5A
+  topic: Exam
+  date: Tues 2/20
+  reading: N/A
   assigned: 
-    - Lab 4A
-    - Exam 1 (Automata)
+    - Exam 1 distributed (Due Sat 24th).
   due: 
     - Homework 4
-- unit: 4B
-  topic: TM Variants; Church-Turing thesis
+- unit: 5B
+  topic: Exam
   date: Thurs 2/15
-  reading: Sipser §3.2
+  reading: N/A
   assigned: 
-    - Lab 4B
+    - Continue Exam 1
   due: 
-- date: Sat 2/17
-  due: Labs 4A and 4B
+- date: Sat 24
+  due: Exam 1
 ---
 
-N.b. in Week 5 we will conclude the Automata part of this course and move on to
-Computability; it is possible I will rearrange the order to instead do
-Complexity before Computability. I will announce so well before Week 5 if I
-choose to do so.
