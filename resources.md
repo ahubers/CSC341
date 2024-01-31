@@ -20,9 +20,9 @@ I am sorry to say that LaTeX is the standard for mathematical type setting and d
   - [Overleaf knowledge base (LaTeX tutorials and references)](https://www.overleaf.com/learn)
   - [LaTeX @ Wikibooks](https://en.wikibooks.org/wiki/LaTeX)
   
-### LaTeX Packages
+### Drawing Graphs, DFAs, etc in LaTeX
   - [TiKZ (Graphs)](http://www.texample.net/tikz/)
-  - [Mathpartir (Inference Rules)](http://cristal.inria.fr/~remy/latex/); also ask me about Mark Jones' infer.sty package if interested.
+  - [An excellent tutorial on how to use TiKZ to draw DFA](https://www3.nd.edu/~kogge/courses/cse30151-fa17/Public/other/tikz_tutorial.pdf)
   
 ### Additional LaTeX Tools
   - [HackMD (Online Markdown + LaTeX collaborative editor)](https://hackmd.io/)

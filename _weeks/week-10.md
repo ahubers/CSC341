@@ -5,7 +5,7 @@ units:
   topic: Exam
   date: Tues 4/9
   reading: N/A
-  assigned: Exam 2 distributed (Due Sat 13).
+  assigned: Exam 2 distributed (Due Tues 16).
   due: Homework 9
 - unit: 10B
   topic: Exam

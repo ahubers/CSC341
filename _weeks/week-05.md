@@ -6,7 +6,7 @@ units:
   date: Tues 2/20
   reading: N/A
   assigned: 
-    - Exam 1 distributed (Due Sat 24th).
+    - Exam 1 distributed (Due Tues 27th).
   due: 
     - Homework 4
 - unit: 5B
@@ -16,7 +16,5 @@ units:
   assigned: 
     - Continue Exam 1
   due: 
-- date: Sat 24
-  due: Exam 1
 ---
 

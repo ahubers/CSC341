@@ -9,6 +9,7 @@ units:
     - Lab 6A
     - Homework 6
   due: 
+    - Exam 1
 - unit: 6B
   topic: TM Variants; Church-Turing thesis
   date: Thurs 2/19

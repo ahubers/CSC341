@@ -1,5 +1,5 @@
 ---
-title: Week—Time Complexity
+title: Week 11—Time Complexity
 units:
 - unit: 11A
   topic: Time Complexity 
@@ -8,7 +8,7 @@ units:
   assigned: 
     - 
   due:
-    - 
+    - Exam 2
 - unit: 11B
   topic: NP-Completeness
   date: 4/18
