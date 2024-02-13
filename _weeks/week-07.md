@@ -19,8 +19,8 @@ units:
   due: 
 - date: Sat 3/9
   due: Labs 7A and 7B
-- date: Mon 3/11
+- date: Sat 3/16
   topic: Spring Break starts
-- date: Mon 3/25
+- date: Apr 4/1
   topic: Spring Break Ends
 ---

@@ -3,7 +3,7 @@ title: Week 14—More Space & Intractible Problems
 units:
 - unit: 14A
   topic: L and NL
-  date:  Tues 5/7
+  date: 
   reading: 
   assigned: 
     - 
@@ -11,7 +11,7 @@ units:
     - 
 - unit: 14B
   topic: Intractibility
-  date: Thurs 5/9
+  date: 
   reading: 
   assigned: 
   due: 

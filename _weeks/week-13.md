@@ -3,7 +3,7 @@ title: Week 13—Space Complexity
 units:
 - unit: 13A
   topic: Savitch's Theorem
-  date: Tues 4/30
+  date: 
   reading: 
   assigned: 
     - 
@@ -11,7 +11,7 @@ units:
     - 
 - unit: 13B
   topic: PSPACE Completeness
-  date: Thurs 5/2
+  date: 
   reading: 
   assigned: 
   due: 
