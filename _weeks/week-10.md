@@ -14,6 +14,6 @@ units:
   assigned: Continue Exam 2.
   due: 
 - date: Tues 4/23
-  due: Exam 2
+  due: 
 ---
 
