@@ -6,6 +6,10 @@ description: Some technical resources that may help you in this course.
 
 # Resources
 
+## Course Materials
+
+- [Course materials repo](https://github.com/ahubers/CSC341-materials). All labs, lesson plans, homeworks, exams, and quizzes, etc.
+
 ## LaTeX
 
 I am sorry to say that LaTeX is the standard for mathematical type setting and document creation---it is, it has been, and it will continue to be. I advise all students to learn LaTeX now before later. There is often no avoiding it.
