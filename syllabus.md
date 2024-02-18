@@ -104,6 +104,14 @@ There are several kinds of common deliverables (described below) I use to assess
 
 We will have somewhere in the range of 10 to 15 small, in-class quizzes. Quizzes are designed to help you identify content that you might have missed or not mastered as well as you think you had. I intend for these to be as low-stakes as possible---I am not trying to examine you; these are just one other form of rapid feedback I can give. To prove to you these are low stakes, your final quiz average (see [Final Letter Grades](#final-letter-grades) below) will be composed only of your top `n` quiz scores for some `n` fairly less than the total quiz count. In other words, we have `total quiz count = n + m`, with `m` the number of dropped lowest quiz scores. We will start with `m = 3`. I reserve the right to increase (but not decrease) `m` so that more low quiz scores may be dropped as necessary.
 
+**Retake Tokens.** Quizzes are designed to encourage you to (i) show up to class and (ii) do the reading. If that is you, but you are still struggling on quizzes, it could mean that either:
+- like me, you over-think timed exams, or 
+- you are struggling (but trying) with the material.
+
+Quizzes are an intended to be _positive_ and not _negative_ reinforcement. To (try to) remedy this for those of you who identify with the above criteria, I am happy to offer **quiz retakes** in exchange for **retake tokens**. **Retake tokens** can be earned by asking valid questions or participating in lecture during Tuesday lectures. You may earn a maximum of 1 per week, and must use that token for either the preceding quiz (the Thursday before) or the following quiz (the Thursday that week).
+
+There will be one **mega-token** which grants access to retake any quiz, but must be used within a week of its earning. I will distribute tokens after lecture so that I am not throwing coins at you during lecture (tokens will be physically manifested as heavy poker chips).
+
 ### Labs
 
 Labs are in-class activities or discussions (small group or whole class) that are designed to allow you to gain familiarity and fluency with the course concepts through grappling with the material directly with oversight. Labs will be completed in small groups so that you can take advantage of the benefits of collaborative learning.
