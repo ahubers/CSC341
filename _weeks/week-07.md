@@ -4,7 +4,7 @@ units:
 - unit: 7A
   topic: Decidability
   date: Tues 3/5
-  reading: Sipser §4.1
+  reading: Sipser §4.1. Optional: Erickson §6 and §7.
   assigned: 
     - Lab 7A
     - Homework 7
@@ -13,7 +13,7 @@ units:
 - unit: 7B
   topic: Undecidability
   date: Thurs 3/7
-  reading: Sipser §4.2
+  reading: Sipser §4.2. Optional: Erickson §7.
   assigned: 
     - Lab 7B
   due: 
