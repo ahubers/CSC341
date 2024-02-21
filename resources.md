@@ -10,6 +10,15 @@ description: Some technical resources that may help you in this course.
 
 - [Course materials repo](https://github.com/ahubers/CSC341-materials). All labs, lesson plans, homeworks, exams, and quizzes, etc.
 
+## Other Books
+
+In addition to Sipser's _Introduction to the Theory of Computation_, we will use portions of the following texts. Both are available free and online at the links below.
+
+- [Jeff Erickson. Models of Computation.](https://jeffe.cs.illinois.edu/teaching/algorithms/models/all-models.pdf).
+- [Arora and Barak (2007). Computational Complexity: A Modern Approach.](https://theory.cs.princeton.edu/complexity/). 
+
+
+
 ## LaTeX
 
 I am sorry to say that LaTeX is the standard for mathematical type setting and document creation---it is, it has been, and it will continue to be. I advise all students to learn LaTeX now before later. There is often no avoiding it.
@@ -46,10 +55,7 @@ Some useful links.
 - I sometimes use [Pandoc](pandoc.org) (also linked above & described by [Osera](https://osera.cs.grinnell.edu/csc341/readings/markdown.html)) to render markdown to html, LaTeX, and pdf. Also, Pandoc is written in Haskell!
 - I have heard good things about [HackMD](https://hackmd.io/), which I believe lets you format documents in markdown with native support for LaTeX. I've yet to use it, but I have had students recommend it.
 
-## Other Texts and Readings
-
-### On Theory of Computation
-- I first learned about _complexity_ and _computability_ from [Arora and Barak](https://theory.cs.princeton.edu/complexity/). It's a good reference. _Available free online at link provided._
+## Other Texts and Readings (Optional)
 
 ### On Programming Languages (Very, very optional)
 - I am bound to talk about programming language theory during this semester. For those of you whom I manage to convince how great it is, I recommend:
@@ -59,7 +65,7 @@ Some useful links.
   - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) is the de facto standard for all things PL. Every researcher I know has a copy. That being said, Pierce largely ignores _denotational semantics_ in favor of _operational semantics_, which I find boring. For denotational semantics, I recommend [Programming Language Foundations](https://www.amazon.com/Programming-Language-Foundations-Aaron-Stump/dp/1118007476), which is also written by my advisor Aaron Stump. (So, feel free to email me if you are interested and price is an issue.)
 
 
-## On Technical Writing
+### On Technical Writing
 Technical writing is hard. While you won't have to do a ton of it in this course, it is something I encourage those of you with an interest in graduate school to take seriously. Here are some resources that have helped me a lot.
 
 - [_Imagining the Reader_, Ben Pierce.](https://www.cis.upenn.edu/~bcpierce/papers/PLMW2023-ImaginingTheReader.pdf) 
