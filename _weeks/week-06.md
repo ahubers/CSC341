@@ -4,16 +4,16 @@ units:
 - unit: 6A
   topic: Turing Machines
   date: 2/27
-  reading: Sipser §3 and §3.1. Optional: Erickson §6.1-6.5
+  reading: Sipser §3 and §3.1. Optional—Erickson §6.1-6.5, Arora and Barak §1.2.
   assigned: 
     - Lab 6A
     - Homework 6
   due: 
     - Exam 1
 - unit: 6B
-  topic: TM Variants; Church-Turing thesis
+  topic: TM Variants / NTMs
   date: Thurs 2/19
-  reading: Sipser §3.2. Optional: Erickson §6.6 and §6.7
+  reading: Sipser §3.2. Optional—Erickson §6.6, §6.7, and §9, Arora and Barak §2.1.2.
   assigned: 
     - Lab 6B
   due: 

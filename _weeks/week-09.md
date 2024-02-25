@@ -4,7 +4,7 @@ units:
 - unit: 9A
   topic: Rice's Theorem 
   date: Tues 4/9
-  reading: See below. Optional: Erickson §7.11.
+  reading: Osera (see below). Optional—Erickson §7.11.
   assigned: 
     - Lab 9A
     - Homework 9
