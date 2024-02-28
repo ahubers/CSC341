@@ -2,7 +2,7 @@
 title: Week 9–Undecidability, Reducibility
 units:
 - unit: 9A
-  topic: Rice's Theorem 
+  topic: Decidability (Review), More Undecidability
   date: Tues 4/2
   reading: Sipser §4.2; optional—TBD.
   assigned: 
@@ -20,5 +20,3 @@ units:
 - date: Sat 4/6
   due: Labs 9A and 9B
 ---
-
-The reading for 9A is by Professor Osera, rewritten in PDF form [here](/CSC341/assets/Rice.pdf) or otherwise available as an HTML page [here](https://osera.cs.grinnell.edu/csc341/readings/rices-theorem.html).

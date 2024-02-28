@@ -1,8 +1,8 @@
 ---
-title: Week 14—More Space & Intractible Problems
+title: Week 14—TBD
 units:
 - unit: 14A
-  topic: L and NL
+  topic: TBD
   date: 
   reading: 
   assigned: 
@@ -10,7 +10,7 @@ units:
   due:
     - 
 - unit: 14B
-  topic: Intractibility
+  topic: TBD
   date: 
   reading: 
   assigned: 
