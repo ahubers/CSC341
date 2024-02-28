@@ -18,5 +18,8 @@ units:
     - Lab 8B
   due: 
 - date: Sat 3/16
+  topic: Spring break begins :)
   due: Labs 8A and 8B
+- date: Mon 4/1 
+  topic: Spring break ends :(
 ---
