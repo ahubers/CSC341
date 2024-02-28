@@ -1,5 +1,5 @@
 ---
-title: Week 7—Decidability
+title: Week 7—The Universal Turing Machine (UTM)
 units:
 - unit: 7A
   topic: Nondeterministic TMs, equivalence.
