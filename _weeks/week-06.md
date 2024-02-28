@@ -11,8 +11,8 @@ units:
   due: 
     - Exam 1
 - unit: 6B
-  topic: TM Variants / NTMs
-  date: Thurs 2/19
+  topic: TM Variants
+  date: Thurs 2/29
   reading: Sipser §3.2. Optional—Erickson §6.6, §6.7, and §9, Arora and Barak §2.1.2.
   assigned: 
     - Lab 6B

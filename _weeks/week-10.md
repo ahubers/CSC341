@@ -3,9 +3,9 @@ title: Week 10—Computability Exam
 units:
 - unit: 10A
   topic: Exam
-  date: Tues 4/16
+  date: Tues 4/9
   reading: N/A
-  assigned: Exam 2 distributed (Due Tues 23).
+  assigned: Exam 2 distributed (Due Tues 2/16).
   due: Homework 9
 - unit: 10B
   topic: Exam

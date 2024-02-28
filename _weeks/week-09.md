@@ -1,23 +1,23 @@
 ---
-title: Week 9–Computability, Logic, More Undecidability
+title: Week 9–Undecidability, Reducibility
 units:
 - unit: 9A
   topic: Rice's Theorem 
-  date: Tues 4/9
-  reading: Osera (see below). Optional—Erickson §7.11.
+  date: Tues 4/2
+  reading: Sipser §4.2; optional—TBD.
   assigned: 
     - Lab 9A
     - Homework 9
   due:
     - Homework 8
 - unit: 9B
-  topic: The Recursion Theorem
-  date: Thurs 4/11
-  reading: Sipser §6.1
+  topic: Reducibility
+  date: Thurs 4/4
+  reading: Sipser §5.1; optional—TBD.
   assigned: 
     - Lab 9B
   due: 
-- date: Sat 4/13
+- date: Sat 4/6
   due: Labs 9A and 9B
 ---
 

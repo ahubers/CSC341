@@ -2,25 +2,21 @@
 title: Week 7—Decidability
 units:
 - unit: 7A
-  topic: Decidability
+  topic: Nondeterministic TMs, equivalence.
   date: Tues 3/5
-  reading: Sipser §4.1. Optional: Erickson §6 and §7, Arora and Barak §1.3-1.4.
+  reading: Sipser §3.2 (on NTMs). Optional—Arora and Barak §2.1.2.
   assigned: 
     - Lab 7A
     - Homework 7
   due:
     - Homework 6
 - unit: 7B
-  topic: Undecidability
+  topic: Encodings of everything (and I mean _everything!_)
   date: Thurs 3/7
-  reading: Sipser §4.2. Optional: Erickson §7, Arora and Barak §1.3-1.4.
+  reading: Arora and barak §1.1.1, §1.3. Optional—Erickson §6.8.
   assigned: 
     - Lab 7B
   due: 
 - date: Sat 3/9
   due: Labs 7A and 7B
-- date: Sat 3/16
-  topic: Spring Break starts
-- date: Apr 4/1
-  topic: Spring Break Ends
 ---
