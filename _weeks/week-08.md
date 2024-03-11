@@ -11,7 +11,7 @@ units:
   due:
     - Homework 7
 - unit: 8B
-  topic: Undecidability Part I, aka: Math Literacy Part II. 
+  topic: Undecidability Part I, aka Math Literacy Part II. 
   date: Thurs 3/14
   reading: Sipser §4.2 through "An undecidable language" (pp 207).
   assigned: 
