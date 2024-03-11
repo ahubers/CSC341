@@ -2,7 +2,7 @@
 title: Week 9–Undecidability, Reducibility
 units:
 - unit: 9A
-  topic: Undecidability (Part II)
+  topic: Undecidability & Reducibility
   date: Tues 4/2
   reading: Sipser §4.2 "An Undecidable Language" through end of section; Sipser §5.1.
   assigned: 
