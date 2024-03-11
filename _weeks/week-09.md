@@ -2,18 +2,18 @@
 title: Week 9–Undecidability, Reducibility
 units:
 - unit: 9A
-  topic: Decidability (Review), More Undecidability
+  topic: Undecidability (Part II)
   date: Tues 4/2
-  reading: Sipser §4.2; optional—TBD.
+  reading: Sipser §4.2 "An Undecidable Language" through end of section; Sipser §5.1.
   assigned: 
     - Lab 9A
     - Homework 9
   due:
     - Homework 8
 - unit: 9B
-  topic: Reducibility
+  topic: Mapping Reducibility
   date: Thurs 4/4
-  reading: Sipser §5.1; optional—TBD.
+  reading: Sipser §5.3; optional—TBD.
   assigned: 
     - Lab 9B
   due: 

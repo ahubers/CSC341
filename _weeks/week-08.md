@@ -1,19 +1,19 @@
 ---
-title: Week 8—Decidability & Undecidability
+title: Week 8—Decidability & Undecidability (Part I)
 units:
 - unit: 8A
   topic: Decidability
   date: Tues 3/12
-  reading: Sipser §4.1; optional—TBD.
+  reading: Sipser §4.1.
   assigned: 
     - Lab 8A
     - Homework 8
   due:
     - Homework 7
 - unit: 8B
-  topic: Undecidability
+  topic: Undecidability Part I, aka: Math Literacy Part II. 
   date: Thurs 3/14
-  reading: Sipser §4.2; optional—TBD.
+  reading: Sipser §4.2 through "An undecidable language" (pp 207).
   assigned: 
     - Lab 8B
   due: 
