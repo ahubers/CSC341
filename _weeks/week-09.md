@@ -13,10 +13,12 @@ units:
 - unit: 9B
   topic: Mapping Reducibility
   date: Thurs 4/4
-  reading: Sipser §5.3; optional—TBD.
+  reading: Sipser §5.3 and Osera's "Undecidable Proof Strategies" (see below).
   assigned: 
     - Lab 9B
   due: 
 - date: Sat 4/6
   due: Labs 9A and 9B
 ---
+
+[Undecidable Proof Strategies](https://osera.cs.grinnell.edu/csc341/files/undecidable-proof-strategies.pdf) by Prof. Osera.
