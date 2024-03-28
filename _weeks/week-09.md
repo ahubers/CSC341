@@ -21,4 +21,4 @@ units:
   due: Labs 9A and 9B
 ---
 
-[Undecidable Proof Strategies](https://osera.cs.grinnell.edu/csc341/files/undecidable-proof-strategies.pdf) by Prof. Osera.
+[Undecidable Proof Strategies](/CSC341/assets/pdf/undecidable-proof-strategies.pdf) by Prof. Osera.
