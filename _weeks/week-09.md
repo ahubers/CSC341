@@ -11,9 +11,9 @@ units:
   due:
     - Homework 8
 - unit: 9B
-  topic: Mapping Reducibility
+  topic: Mapping Reducibility; The Post Correspondence Problem (PCP).
   date: Thurs 4/4
-  reading: Sipser §5.3 and Osera's "Undecidable Proof Strategies" (see below).
+  reading: Sipser §5.2 (Skip proof of Theorem 5.15), §5.3 and Osera's "Undecidable Proof Strategies" (see below).
   assigned: 
     - Lab 9B
   due: 
