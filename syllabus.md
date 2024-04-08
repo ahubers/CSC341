@@ -49,7 +49,7 @@ The outcome of any course is always a mix of content and behavior---I want you t
 - Prove closure and algorithmic properties of Turing machines.
 - Prove the decidability of a given machine analysis algorithm.
 - Prove the undecidability of a given problem by way of reduction.
-- ~~Prove the undecidability of a given problem through Rice's Theorem.~~
+- Prove the undecidability of a given problem through Rice's Theorem.
 - Describe the practical ramifications of computational undecidability.
 - ~~Describe practical problem solving strategies for dealing with intractable problems.~~
 
