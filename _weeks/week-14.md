@@ -6,16 +6,17 @@ units:
   date: 5/7
   reading: Sipser §8.4 through §8.6.
   assigned: 
-    - Homework 14
+    - No Homework (but sublinear space complexity will be on Exam 3).
     - Lab 14A
   due:
     - Homework 13
 - unit: 14B
-  topic: Intractibility
+  topic: Better models of computation: THE LAMBDA CALCULUS
   date: 5/9
-  reading: Sipser §9.1
+  reading: Pfft.
   assigned: 
-    - Lab 14B
+    - Exam 3 released.
+    - Lab 14B.
   due: 
 - date: 5/11
   due: Labs 14A and 14B
