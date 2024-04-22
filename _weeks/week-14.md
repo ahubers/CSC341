@@ -16,8 +16,8 @@ units:
   date: 5/9
   reading: Pfft.
   assigned: 
-    - Lab 14B
+    - Pfft.
   due: 
 - date: 5/11
-  due: Labs 14A and 14B
+  due: Lab 14A
 ---
