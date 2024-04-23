@@ -12,12 +12,12 @@ units:
   due:
     - Homework 13
 - unit: 14B
-  topic: THE SIMPLY TYPED LAMBDA CALCULUS (The GOAT)
+  topic: THE Simply Typed Lambda Calculus (The GOAT)
   date: 5/9
-  reading: Pfft.
+  reading: N/A
   assigned: 
-    - Pfft.
-  due: 
+    - N/A
+  due: ALL HOMEWORK & LABS (except Lab 14A). I expect all late work to be handed in no later than May 9th, and will not be accepting any late submissions past this date. This is a hard deadline.
 - date: 5/11
   due: Lab 14A
 ---
