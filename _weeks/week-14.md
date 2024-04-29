@@ -12,7 +12,7 @@ units:
   due:
     - Homework 13
 - unit: 14B
-  topic: THE Simply Typed Lambda Calculus (The GOAT)
+  topic: Syntactic models of computation---The Typed and Untyped Lambda Calculus
   date: 5/9
   reading: N/A
   assigned: 
