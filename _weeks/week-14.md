@@ -4,7 +4,7 @@ units:
 - unit: 14A
   topic: Sublinear Space Complexity
   date: 5/7
-  reading: Sipser §8.4 through §8.6.
+  reading: Sipser §8.4; skim §8.5–8.6.
   assigned: 
     - No Homework (but sublinear space complexity will be on Exam 3).
     - Exam 3 released.

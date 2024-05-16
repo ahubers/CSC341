@@ -1,12 +1,38 @@
 ---
 layout: page
-title: Syllabus Change Proposal
+title: Syllabus Changelog
 nav: false
 ---
 
-# Proposed Changes to the Syllabus (Mid-Semester)
+# Syllabus Changelog
 
-This document describes changes to the course that I am proposing in response to feedback received from the [Mid-Semester Course-Adjustment form](https://forms.office.com/r/3tz1N8cxnw). This feedback is aggregated and summarized below.
+This document describes changes to the course syllabus. 
+
+## End-Of Semester changes (Week 15)
+
+I am going to change the grading scale in favor of students. I would not call this a curve; I have not yet graded finals, and it is not response to grades in the course. These changes are made to better reflect what feels standard at Grinnell, and also to better reflect my grading philosophy now, as a professor, versus fifteen weeks ago. The new scale is as follows.
+
+Let `n` be your final point sum in the course (with extra credit and any additional free points also added). Your final letter grade is determined by the row below with the greatest `p` such that `p ≤ n`. (N.b. recall that there are ≥ 1000 points offered in the course.)
+
+| Letter Grade |  `p`  |
+|--------------|-----|
+| A            | 900 |
+| B+           | 870 |
+| B            | 800 |
+| C+           | 770 |
+| C            | 670 |
+| D            | 600 |
+| F            | 0   |
+
+A summary:
+- An A is now 900-1000. I don't know how much I care about A minuses.
+- Likewise, a B is now 800-899. I don't know how much I care about B minuses.
+- There is no C-, as far as I can tell, at Grinnell. At least with respect to graduation, there is no C-. So I also don't care much about C minuses.
+- I have lowered the bar for a C to a 670. Since this course is terminal and required for graduation, all I am really doing is making the de facto the de jure: if you are "close enough" to a passing grade, I was probably gonna give it to you. It's just clearer now that "close enough" means 670 points or above. 
+
+## Mid-Semester Feedback (≈ Week 7)
+
+The first round of changes are in response to feedback received from the [Mid-Semester Course-Adjustment form](https://forms.office.com/r/3tz1N8cxnw). This feedback is aggregated and summarized below.
 
 If there are any objections to any of these changes, please feel free to reach out to me by email, Teams, or in person. I am very happy to hear other ideas or ways to improve my proposals.
 
