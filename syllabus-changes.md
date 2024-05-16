@@ -26,7 +26,7 @@ Let `n` be your final point sum in the course (with extra credit and any additio
 
 A summary:
 - An A is now 900-1000. I don't know how much I care about A minuses.
-- Likewise, a B is now 800-899. I don't know how much I care about B minuses.
+- Likewise, a B and B+ are now 800-899. I don't know how much I care about B minuses.
 - There is no C-, as far as I can tell, at Grinnell. At least with respect to graduation, there is no C-. So I also don't care much about C minuses.
 - I have lowered the bar for a C to a 670. Since this course is terminal and required for graduation, all I am really doing is making the de facto the de jure: if you are "close enough" to a passing grade, I was probably gonna give it to you. It's just clearer now that "close enough" means 670 points or above. 
 
